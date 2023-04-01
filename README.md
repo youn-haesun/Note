@@ -23,7 +23,7 @@
 
 
 ### Certification 
-- SQLP
+- [SQLP](https://github.com/youn-haesun/Note/blob/main/certification/sql.md)
 - ADsP
 - 정보처리기사
   - 필기 

@@ -28,5 +28,5 @@
 ### Git 
 
 ### 파이썬 
-  - [목차](https://github.com/youn-haesun/Note/blob/main/python/%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90.md)
+  - [목차](https://github.com/youn-haesun/Note/blob/main/python/readme.md)
   - [기본 개념](https://github.com/youn-haesun/Note/blob/main/python/%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90.md)
